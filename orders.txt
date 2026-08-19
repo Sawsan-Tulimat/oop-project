@@ -1,0 +1,65 @@
+----- Order -----
+Name: jf
+Phone: nhf
+Table: 77
+Special Request: j
+Items:
+----- Order -----
+Name: j
+Phone: 8
+Table: 8
+Special Request: 
+Items:
+----- Order -----
+Name: nn
+Phone: 1
+Table: 2
+Special Request: 
+Items:
+- Pizza  40$  Category: Main Dish
+
+----- Order -----
+Name: 3
+Phone: 2
+Table: 1
+Special Request: 
+Items:
+- Mozzarella Sticks  15$  Calories: 320-420 Kcal
+
+----- Order -----
+Name: n
+Phone: 2
+Table: 2
+Special Request: 
+Items:
+- Tiramisu  30$  Calories: 300-480 Kcal
+
+----- Order -----
+Name: n
+Phone: 2
+Table: 2
+Special Request: 
+Items:
+- Tiramisu  30$  Calories: 300-480 Kcal
+
+----- Order -----
+Name: sawsan
+Phone: 07689
+Table: 6
+Special Request: for birthday
+Items:
+- Caramel Pudding  25$  Calories: 150-250 Kcal
+- Chocolate Cake  35$  Calories: 350-450 Kcal
+- Caramel Pudding  25$  Calories: 150-250 Kcal
+
+
+
+----- Order -----
+Name: sawsan
+Phone: 88
+Table: 5
+Special Request: -
+Items:
+- Chocolate Cake  35$  Calories: 350-450 Kcal
+- Caramel Pudding  25$  Calories: 150-250 Kcal
+

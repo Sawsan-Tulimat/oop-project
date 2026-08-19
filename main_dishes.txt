@@ -1,0 +1,4 @@
+Burger  25$  Category: Main Dish
+Pizza  40$  Category: Main Dish
+Pasta  30$  Category: Main Dish
+Steak  20$  Category: Main Dish
