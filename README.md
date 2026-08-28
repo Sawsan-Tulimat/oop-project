@@ -3,7 +3,7 @@ This project was developed as a team project by:
 
 * **Sawsan Tulimat**
 * **Nada Ali**
-* **Joury mannan3**
+* **Joury mannan**
 
  Academic Project
 
@@ -18,7 +18,7 @@ This project simulates a restaurant ordering system where users can view the men
 
 The project was developed to practice and demonstrate fundamental **Object-Oriented Programming** concepts in Python.
 
-✨ Features
+✨ Features:
 
 * 📋 View the restaurant menu
 * 🛒 Add and manage orders
@@ -29,10 +29,10 @@ The project was developed to practice and demonstrate fundamental **Object-Orien
 
 🛠️ Technologies
 
-**Python**
-**Object-Oriented Programming (OOP)**
-**File Handling**
-**Exception Handling**
+* **Python**
+* **Object-Oriented Programming (OOP)**
+* **File Handling**
+* **Exception Handling**
 
  🎯 Learning Objectives
 
