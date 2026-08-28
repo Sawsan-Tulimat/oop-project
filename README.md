@@ -1,11 +1,11 @@
  👥 Team
 This project was developed as a team project by:
 
-**Sawsan Tulimat**
-**Nada Ali**
-**Joury mannan3**
+* **Sawsan Tulimat**
+* **Nada Ali**
+* **Joury mannan3**
 
-## 🎓 Academic Project
+ Academic Project
 
 This project was developed as part of our **Object-Oriented Programming (OOP)** coursework.
  🍽️ Restaurant Ordering System
