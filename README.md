@@ -1,53 +1,121 @@
- 👥 Team
-This project was developed as a team project by:
+# 🍽️ Restaurant Ordering System
 
-* **Sawsan Tulimat**
-* **Nada Ali**
-* **Joury mannan**
+A team-based **Restaurant Ordering System** developed using **Python** and **Object-Oriented Programming (OOP)** concepts.
 
- Academic Project
+The system allows users to browse restaurant menus, place orders, calculate the total price, and save order information using file handling.
+
+## 📌 About the Project
 
 This project was developed as part of our **Object-Oriented Programming (OOP)** coursework.
- 🍽️ Restaurant Ordering System
 
-A simple restaurant ordering system developed using **Python** and **Object-Oriented Programming (OOP)** concepts.
+The main goal was to apply fundamental OOP concepts to a practical restaurant ordering system while practicing software organization, file handling, exception handling, and GUI development.
 
- 📌 About the Project
+## ✨ Features
 
-This project simulates a restaurant ordering system where users can view the menu, place orders, and calculate the total price.
-
-The project was developed to practice and demonstrate fundamental **Object-Oriented Programming** concepts in Python.
-
-✨ Features:
-
-* 📋 View the restaurant menu
+* 📋 View restaurant menus
 * 🛒 Add and manage orders
-* 💰 Calculate the total price
-* 📁 File handling
-* ⚠️ Exception handling
-* 🧩 Object-Oriented Programming
+* 🍽️ Manage appetizers, main dishes, and desserts
+* 💰 Calculate the total order price
+* 📝 Add special requests
+* 💾 Save order information to files
+* ⚠️ Handle invalid inputs and exceptions
+* 🖥️ Graphical User Interface (GUI)
 
-🛠️ Technologies
+## 🧩 OOP Concepts
+
+The project demonstrates several Object-Oriented Programming concepts, including:
+
+* **Classes and Objects**
+* **Inheritance**
+* **Encapsulation**
+* **Methods and Functions**
+* **Exception Handling**
+* **File Handling**
+
+## 🛠️ Technologies
 
 * **Python**
+* **Tkinter**
 * **Object-Oriented Programming (OOP)**
 * **File Handling**
 * **Exception Handling**
 
- 🎯 Learning Objectives
+## 📂 Project Structure
 
-Through this project, I practiced:
+```text
+oop-project/
+│
+├── GUI.py
+├── main.py
+├── Restaurant.py
+│
+├── Appetizers.py
+├── Appetizer_menu.py
+├── Appetizers.txt
+│
+├── main_Dishes.py
+├── main_dishes menu.py
+├── main_dishes.txt
+│
+├── dessert.py
+├── dessert.txt
+│
+├── orders.txt
+└── README.md
+```
 
-* Classes and Objects
-* Inheritance
-* Encapsulation
-* Methods and Functions
-* File Handling
-* Exception Handling
+##  How to Run
 
- 🚀 How to Run
+### 1. Clone the repository
 
-1. Open the project folder.
+```bash
+git clone https://github.com/Sawsan-Tulimat/oop-project.git
+```
 
-2. Run the GUI.py file
+### 2. Open the project folder
+
+```bash
+cd oop-project
+```
+
+### 3. Run the GUI
+
+```bash
+python GUI.py
+```
+
+Make sure **Python 3** is installed on your computer.
+
+##  Academic Project
+
+This project was developed as a **team project** for our Object-Oriented Programming course.
+
+## 👥 Team
+
+* **Sawsan Tulimat**
+* **Nada Ali**
+* **Joury Mannan**
+
+##  My Contribution
+
+* **Initiated the project idea** and proposed the concept of the restaurant ordering system.
+* **Built the initial code structure and foundation** of the project.
+* Worked with the team to develop and modify different sections of the system.
+* Collaborated with team members to integrate and improve each part of the project.
+
+## 📚 Learning Outcomes
+
+Through this project, we gained practical experience in:
+
+* Designing programs using OOP principles
+* Working with classes and inheritance
+* Building a graphical user interface with Tkinter
+* Reading and writing data using files
+* Handling exceptions and user input
+* Organizing a multi-file Python project
+* Collaborating on a software project
+
+---
+
+⭐ **Thank you for checking out our project!**
 
